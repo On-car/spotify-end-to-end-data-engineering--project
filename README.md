@@ -1,7 +1,7 @@
-# spotify-end-to-end-data-engineering--project
-Integrating with Spotify API and extracting Data. Deploying code on AWS Lambda for Data Extraction.
-Adding trigger to run the extraction automatically.
-Writing transformation function.
-Building automated trigger on transformation function.
-Store files on S3 properly.
-Building Analytics Tables on data files using Glue and Athena.
+#Spotify Data Pipeline: Extract, Transform, and Analyze with AWS.
+
+###Spotify data pipeline: Extract, transform, and analyze using AWS, Lambda, Glue, Athena, and S3.
+
+##OBJECTIVE:
+###This project aims to build a comprehensive data pipeline for extracting, transforming, and analyzing Spotify data using various AWS services. The pipeline will integrate with the Spotify API to fetch relevant data and store it in an organized manner on AWS S3. The extraction process will be automated by deploying code on AWS Lambda, which will run at scheduled intervals or trigger events.
+
