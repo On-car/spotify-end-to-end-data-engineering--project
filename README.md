@@ -10,3 +10,6 @@
 #### Furthermore, to enable seamless analytics, the project will involve creating analytics tables using AWS Glue and Athena. These services will assist in defining the data schema and enable querying and analysis of the transformed data efficiently.
 #### By implementing this Spotify data pipeline on AWS, the project aims to provide a scalable, reliable, and automated solution for extracting, transforming, and analyzing Spotify data, unlocking valuable insights for various analytical purposes.
 
+### Architecture :
+![Architecture](
+
